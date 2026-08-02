@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
