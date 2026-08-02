@@ -122,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0704-binary-search) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
