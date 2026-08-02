@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0242-valid-anagram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
