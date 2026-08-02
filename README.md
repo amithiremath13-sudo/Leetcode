@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0001-two-sum) |
 | [1929-concatenation-of-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
