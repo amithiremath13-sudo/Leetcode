@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0242-valid-anagram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
