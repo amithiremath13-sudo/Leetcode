@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0704-binary-search) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0414-third-maximum-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
