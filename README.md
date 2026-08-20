@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -179,9 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
