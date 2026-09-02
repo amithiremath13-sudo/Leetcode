@@ -7,7 +7,7 @@ class Solution {
             if(!Character.isLetterOrDigit(s.charAt(left))){
                 left++;
             }
-            //skip alphanumeric characters from right
+            //skip non alphanumeric characters from right
             else if(!Character.isLetterOrDigit(s.charAt(right))){
                 right--;
             }
