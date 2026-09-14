@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0704-binary-search) |
 | [0907-sum-of-subarray-minimums](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Database
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bracket Sequences
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Geometry
 |  |
 | ------- |
