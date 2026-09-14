@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3871-count-commas-in-range-ii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
