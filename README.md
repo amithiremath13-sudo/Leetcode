@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0704-binary-search) |
 | [0907-sum-of-subarray-minimums](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
