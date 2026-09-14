@@ -1,33 +1,40 @@
 class Solution {
     public int[] findEvenNumbers(int[] digits) {
-        int n=digits.length;
-        HashSet<Integer> set = new HashSet<>();
-        for(int i=0;i<n;i++){
+        int n = digits.length;
+        Set<Integer> seen = new HashSet<>();
+        for(int i =0;i<n;i++){
             for(int j=0;j<n;j++){
-                for(int k=0;k<n;k++){
-                    if(i==j || j==k || k==i){
-                        continue;
-                    }
+                for(int k = 0;k<n;k++){
                     if(digits[i]==0){
                         continue;
                     }
-                    if(digits[k]%2!=0){
+                    if(i==j||j==k||i==k){
                         continue;
                     }
-                    int num = (digits[i]*100) + (digits[j]*10) + (digits[k]);
-                    set.add(num);
+                    if(digits[k]%2 != 0){
+                        continue;
+                    }
+                    int num = digits[i]*100 + digits[j]*10+digits[k];
+                    seen.add(num);
+                    
 
+                    
                 }
             }
-        }
-        int[] result = new int[set.size()];
-        int l = 0;
-        for(int num: set){
-            result[l++]=num;
-        }
-        Arrays.sort(result);
-        return result;
+            
 
+            
+        }
+        int[] arr = new int[seen.size()]; 
+        int index = 0; 
+
+        for(int x : seen) { 
+            arr[index] = x; 
+            index++; 
+        }
+        Arrays.sort(arr); 
+
+        return arr;
         
     }
 }
