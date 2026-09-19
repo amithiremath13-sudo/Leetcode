@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0414-third-maximum-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 ## Enumeration
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 ## Database
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bracket Sequences
 |  |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 ## Geometry
 |  |
 | ------- |
