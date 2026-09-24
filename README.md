@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
