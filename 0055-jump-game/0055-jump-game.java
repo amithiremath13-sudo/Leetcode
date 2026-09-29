@@ -8,9 +8,7 @@ class Solution {
             }
             int curr = i + nums[i];
             farthest = Math.max(farthest,curr);
-            if(farthest>=n){
-                return true;
-            }
+            
 
         }
         return true;
