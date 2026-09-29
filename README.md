@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0066-plus-one) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0179-largest-number) |
 | [1903-largest-odd-number-in-string](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1903-largest-odd-number-in-string) |
