@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0704-binary-search) |
 | [0907-sum-of-subarray-minimums](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0344-reverse-string) |
+| [0611-valid-triangle-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 ## Enumeration
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1903-largest-odd-number-in-string](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
