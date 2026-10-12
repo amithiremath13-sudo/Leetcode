@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0704-binary-search) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -309,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0229-majority-element-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
