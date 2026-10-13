@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/amithiremath13-sudo/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/amithiremath13-sudo/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1903-largest-odd-number-in-string](https://github.com/amithiremath13-sudo/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amithiremath13-sudo/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
